@@ -7,3 +7,5 @@ prepare.py is written to process the tree ensemble as input, including how to fi
 MIP_solver.py and MIP_solver_2.py are written to solve the optimization problem calling Gurobi in Python, and use bisection to get dominating point.
 Examples include 2-dimension case, 3-dimension case, high-dimension case and a case on real dataset, the concrete.csv.
 In order to get real dataset, we import AppliedPredictiveModeling package in R and save it as csv file.
+
+All our work is to help with the preparation of work in importance sampling prediction.pdf
