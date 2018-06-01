@@ -16,3 +16,5 @@ Examples include 2-dimension case, 3-dimension case, high-dimension case and a c
 In order to get real dataset, we import AppliedPredictiveModeling package in R and save it as csv file.
 
 All our work is to help with the preparation of work in importance sampling prediction.pdf
+
+The Algorithm of optimization on tree ensemble is based on the paper "Optimization of Tree Ensemble", please refer to the pdf file.
